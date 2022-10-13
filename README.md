@@ -26,11 +26,11 @@ URL: https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq
 
 This dataset contains 801 observations with 20531 features all of which correspond to the expression level of an RNA sequence/gene of human tumours, the target variable being the type of tumour sequenced.  The tumour types are designated as: 
 
-•	BRCA: Breast invasive carcinoma 
-•	KIRC:  Kidney renal cell carcinoma 
-•	COAD: Colon adenocarcinoma 
-•	LUAD: Lung adenocarcinoma 
-•	PRAD: Prostate adenocarcinoma 
+•	BRCA: Breast invasive carcinoma  
+•	KIRC:  Kidney renal cell carcinoma  
+•	COAD: Colon adenocarcinoma     
+•	LUAD: Lung adenocarcinoma     
+•	PRAD: Prostate adenocarcinoma         
 
 
 
